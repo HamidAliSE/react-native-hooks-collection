@@ -1,5 +1,5 @@
 {
-    "name": "react-native-hooks",
+    "name": "react-native-hooks-collection",
     "version": "0.1.0",
     "description": "A lightweight collection of React Native Hooks",
     "main": "index.js",
@@ -13,10 +13,10 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/HamidAliSE/react-native-hooks.git"
+        "url": "https://github.com/HamidAliSE/react-native-hooks-collection.git"
     },
     "bugs": {
-        "url": "https://github.com/HamidAliSE/react-native-hooks/issues"
+        "url": "https://github.com/HamidAliSE/react-native-hooks-collection/issues"
     },
-    "homepage": "https://github.com/HamidAliSE/react-native-hooks#readme"
+    "homepage": "https://github.com/HamidAliSE/react-native-hooks-collection#readme"
 }
