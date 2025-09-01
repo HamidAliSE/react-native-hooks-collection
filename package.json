@@ -1,0 +1,22 @@
+{
+    "name": "react-native-hooks",
+    "version": "0.1.0",
+    "description": "A lightweight collection of React Native Hooks",
+    "main": "index.js",
+    "keywords": [
+        "react",
+        "react-native",
+        "hooks",
+        "custom-hooks"
+    ],
+    "author": "Hamid Ali <hamidalig942@gmail.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/HamidAliSE/react-native-hooks.git"
+    },
+    "bugs": {
+        "url": "https://github.com/HamidAliSE/react-native-hooks/issues"
+    },
+    "homepage": "https://github.com/HamidAliSE/react-native-hooks#readme"
+}
