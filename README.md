@@ -1,4 +1,4 @@
-# react-native-hooks
+# react-native-hooks-collection
 A lightweight collection of React Native Hooks
 
 ## Installation
@@ -6,12 +6,12 @@ You can install the package using either **npm** or **yarn**:
 
 ### With npm
 ```
-npm install react-native-hooks
+npm install react-native-hooks-collection
 ```
 
 ### With yarn
 ```
-yarn add react-native-hooks
+yarn add react-native-hooks-collection
 ```
 
 ## License
