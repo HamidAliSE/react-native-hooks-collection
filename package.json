@@ -9,7 +9,8 @@
     ],
     "scripts": {
         "clean": "rm -rf dist",
-        "build": "yarn clean && tsc"
+        "build": "yarn clean && tsc",
+        "zip:list": "yarn pack && tar -tzf react-native-hooks-collection-v$npm_package_version.tgz"
     },
     "keywords": [
         "react",
