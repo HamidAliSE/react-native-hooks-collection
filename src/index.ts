@@ -4,6 +4,7 @@ import useToggle from './hooks/useToggle';
 import useRenderCount from './hooks/useRenderCount';
 import useAppState from './hooks/useAppState';
 import useCountdown from './hooks/useCountdown';
+import useCounter from './hooks/useCounter';
 
 export {
     useIsFirstRender,
@@ -12,4 +13,5 @@ export {
     useRenderCount,
     useAppState,
     useCountdown,
+    useCounter,
 };
