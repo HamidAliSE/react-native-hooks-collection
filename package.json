@@ -30,13 +30,15 @@
     "homepage": "https://github.com/HamidAliSE/react-native-hooks-collection#readme",
     "peerDependencies": {
         "react": ">=17.0.0",
-        "react-native": ">=0.64.0"
+        "react-native": ">=0.64.0",
+        "@react-native-community/netinfo": ">=9.0.0"
     },
     "devDependencies": {
         "react": "^18.0.0",
         "react-native": "0.72.0",
         "@types/react": "^18.0.0",
         "@types/react-native": "^0.72.0",
-        "typescript": "^5.9.2"
+        "typescript": "^5.9.2",
+        "@react-native-community/netinfo": ">=9.0.0"
     }
 }

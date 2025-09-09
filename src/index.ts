@@ -8,6 +8,10 @@ import {
     useCounter,
 } from './hooks/core';
 
+import {
+    useInternetStatus,
+} from './hooks/internet';
+
 export {
     useIsFirstRender,
     useLifecycleLogger,
@@ -16,4 +20,5 @@ export {
     useAppState,
     useCountdown,
     useCounter,
+    useInternetStatus,
 };
