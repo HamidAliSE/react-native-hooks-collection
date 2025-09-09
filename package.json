@@ -8,9 +8,14 @@
         "dist"
     ],
     "exports": {
-        ".": "./dist/index.js",
-        "./core": "./dist/core/index.js",
-        "./internet": "./dist/internet/index.js"
+        ".": {
+            "import": "./dist/index.js",
+            "types": "./dist/index.d.ts"
+        },
+        "./*": {
+            "import": "./dist/*.js",
+            "types": "./dist/*.d.ts"
+        }
     },
     "scripts": {
         "clean": "rm -rf dist",
