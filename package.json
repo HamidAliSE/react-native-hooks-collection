@@ -12,9 +12,13 @@
             "import": "./dist/index.js",
             "types": "./dist/index.d.ts"
         },
-        "./*": {
-            "import": "./dist/*.js",
-            "types": "./dist/*.d.ts"
+        "./core": {
+            "import": "./dist/hooks/core/index.js",
+            "types": "./dist/hooks/core/index.d.ts"
+        },
+        "./internet": {
+            "import": "./dist/hooks/internet/index.js",
+            "types": "./dist/hooks/internet/index.d.ts"
         }
     },
     "scripts": {
