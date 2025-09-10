@@ -1,6 +1,6 @@
 {
     "name": "react-native-hooks-collection",
-    "version": "0.1.7",
+    "version": "0.1.8",
     "description": "A lightweight collection of React Native Hooks",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
