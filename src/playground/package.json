@@ -10,8 +10,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-community/netinfo": "^11.4.1",
     "react": "19.0.0",
-    "react-native": "0.79.6"
+    "react-native": "0.79.6",
+    "react-native-hooks-collection": "file:.yalc/react-native-hooks-collection"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
