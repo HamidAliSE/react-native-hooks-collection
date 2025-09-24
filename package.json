@@ -28,7 +28,7 @@
         "start:clean": "cd src/playground && yarn start --reset-cache",
         "android:debug": "cd src/playground/android && ./gradlew assembleDebug",
         "android:release": "cd src/playground/android && ./gradlew assembleRelease",
-        "local": "yalc publish && cd src/playground && yalc add react-native-hooks-collection"
+        "local": "yarn build && yalc publish && cd src/playground && yalc add react-native-hooks-collection"
     },
     "keywords": [
         "react",
