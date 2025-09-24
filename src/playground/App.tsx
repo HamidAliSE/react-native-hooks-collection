@@ -1,9 +1,9 @@
-import Toggle from './src/usage/Toggle';
+import Debounce from './src/usage/Debounce';
 
 const App = () => {
 	return (
 		<>
-			<Toggle />
+			<Debounce />
 		</>
 	);
 };
