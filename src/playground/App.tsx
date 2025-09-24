@@ -1,9 +1,9 @@
-import Debounce from './src/usage/Debounce';
+import DebouncedCallback from './src/usage/DebouncedCallback';
 
 const App = () => {
 	return (
 		<>
-			<Debounce />
+			<DebouncedCallback />
 		</>
 	);
 };
