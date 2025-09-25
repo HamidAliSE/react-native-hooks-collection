@@ -1,9 +1,9 @@
-import DebouncedCallback from './src/usage/DebouncedCallback';
+import ThrottledCallback from './src/usage/ThrottledCallback';
 
 const App = () => {
 	return (
 		<>
-			<DebouncedCallback />
+			<ThrottledCallback />
 		</>
 	);
 };
