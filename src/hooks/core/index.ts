@@ -8,6 +8,7 @@ import useCounter from './useCounter';
 import useDebounce from './useDebounce';
 import useDebouncedCallback from './useDebouncedCallback';
 import useThrottledCallback from './useThrottledCallback';
+import useStateRef from './useStateRef';
 
 export {
     useIsFirstRender,
@@ -20,4 +21,5 @@ export {
     useDebounce,
     useDebouncedCallback,
     useThrottledCallback,
+    useStateRef,
 };

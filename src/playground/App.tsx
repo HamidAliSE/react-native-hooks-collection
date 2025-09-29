@@ -1,9 +1,9 @@
-import ThrottledCallback from './src/usage/ThrottledCallback';
+import StateRef from './src/usage/StateRef';
 
 const App = () => {
 	return (
 		<>
-			<ThrottledCallback />
+			<StateRef />
 		</>
 	);
 };
