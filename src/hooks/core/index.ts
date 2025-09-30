@@ -10,6 +10,7 @@ import useDebouncedCallback from './useDebouncedCallback';
 import useThrottledCallback from './useThrottledCallback';
 import useStateRef from './useStateRef';
 import useLogChange from './useLogChange';
+import usePrevious from './usePrevious';
 
 export {
     useIsFirstRender,
@@ -24,4 +25,5 @@ export {
     useThrottledCallback,
     useStateRef,
     useLogChange,
+    usePrevious,
 };

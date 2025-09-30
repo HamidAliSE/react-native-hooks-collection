@@ -1,9 +1,9 @@
-import LogChange from './src/usage/LogChange';
+import Previous from './src/usage/Previous';
 
 const App = () => {
 	return (
 		<>
-			<LogChange />
+			<Previous />
 		</>
 	);
 };
