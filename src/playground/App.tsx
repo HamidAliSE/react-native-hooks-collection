@@ -1,9 +1,9 @@
-import StateRef from './src/usage/StateRef';
+import LogChange from './src/usage/LogChange';
 
 const App = () => {
 	return (
 		<>
-			<StateRef />
+			<LogChange />
 		</>
 	);
 };
