@@ -1,9 +1,9 @@
-import Dimensions from './src/usage/Dimensions';
+import Orientation from './src/usage/Orientation';
 
 const App = () => {
 	return (
 		<>
-			<Dimensions />
+			<Orientation />
 		</>
 	);
 };

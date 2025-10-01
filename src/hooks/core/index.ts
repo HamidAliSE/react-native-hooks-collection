@@ -12,6 +12,7 @@ import useStateRef from './useStateRef';
 import useLogChange from './useLogChange';
 import usePrevious from './usePrevious';
 import useDimensions from './useDimensions';
+import useOrientation from './useOrientation';
 
 export {
     useIsFirstRender,
@@ -28,4 +29,5 @@ export {
     useLogChange,
     usePrevious,
     useDimensions,
+    useOrientation,
 };
