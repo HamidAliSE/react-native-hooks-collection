@@ -11,6 +11,7 @@ import useThrottledCallback from './useThrottledCallback';
 import useStateRef from './useStateRef';
 import useLogChange from './useLogChange';
 import usePrevious from './usePrevious';
+import useDimensions from './useDimensions';
 
 export {
     useIsFirstRender,
@@ -26,4 +27,5 @@ export {
     useStateRef,
     useLogChange,
     usePrevious,
+    useDimensions,
 };

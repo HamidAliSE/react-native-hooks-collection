@@ -1,9 +1,9 @@
-import Previous from './src/usage/Previous';
+import Dimensions from './src/usage/Dimensions';
 
 const App = () => {
 	return (
 		<>
-			<Previous />
+			<Dimensions />
 		</>
 	);
 };
