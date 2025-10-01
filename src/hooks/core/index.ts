@@ -13,6 +13,7 @@ import useLogChange from './useLogChange';
 import usePrevious from './usePrevious';
 import useDimensions from './useDimensions';
 import useOrientation from './useOrientation';
+import useKeyboard from './useKeyboard';
 
 export {
     useIsFirstRender,
@@ -30,4 +31,5 @@ export {
     usePrevious,
     useDimensions,
     useOrientation,
+    useKeyboard,
 };

@@ -1,9 +1,9 @@
-import Orientation from './src/usage/Orientation';
+import Keyboard from './src/usage/Keyboard';
 
 const App = () => {
 	return (
 		<>
-			<Orientation />
+			<Keyboard />
 		</>
 	);
 };
