@@ -14,6 +14,7 @@ import usePrevious from './usePrevious';
 import useDimensions from './useDimensions';
 import useOrientation from './useOrientation';
 import useKeyboard from './useKeyboard';
+import useBackHandler from './useBackHandler';
 
 export {
     useIsFirstRender,
@@ -32,4 +33,5 @@ export {
     useDimensions,
     useOrientation,
     useKeyboard,
+    useBackHandler,
 };
