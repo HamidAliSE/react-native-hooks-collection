@@ -19,5 +19,28 @@ npm install react-native-hooks-collection
 yarn add react-native-hooks-collection
 ```
 
+## List of Hooks in the Collection
+Core
+- [x] Keyboard
+- [x] Back Handler
+- [x] Device Orientation
+- [x] Dimensions
+- [x] Previous
+- [x] Log Change
+- [x] State Ref
+- [x] Toggle
+- [x] Throttled Callback
+- [x] Render Count
+- [x] Lifecycle Logger
+- [x] Is First Render
+- [x] Debounced Callback
+- [x] Debounce
+- [x] Counter
+- [x] Countdown
+- [x] App State
+
+Internet
+- [x] Internet Status
+
 ## License
 This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) for more details.
