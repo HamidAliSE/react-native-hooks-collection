@@ -40,6 +40,9 @@ Explore the `/src/playground` folder.
 ## useCountdown Demo
 <img src="https://github.com/user-attachments/assets/79e998f0-b36d-41f0-9480-3849873b440f" width="300" alt="useCountdown Demo" />
 
+## useCounter Demo
+<img src="https://github.com/user-attachments/assets/6c889c15-8299-4f40-be9a-c5fbdbc30035" width="300" alt="useCounter Demo" />
+
 ## 🔧 Upcoming Hooks
 
 🚀 usePermission (For location & camera)
