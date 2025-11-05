@@ -34,6 +34,9 @@ yarn add react-native-hooks-collection
 ## 🖼️ Example App
 Explore the `/src/playground` folder.
 
+## useKeyboard Demo
+<img src="https://github.com/user-attachments/assets/fa912417-1869-4d35-a617-92ec6674cab1" width="300" alt="useKeyboard Demo" />
+
 ## 🔧 Upcoming Hooks
 
 🚀 usePermission (For location & camera)
