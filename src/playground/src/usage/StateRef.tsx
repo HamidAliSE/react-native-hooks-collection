@@ -15,9 +15,9 @@ const StateRef = () => {
 
     return (
         <View style={styles.screen}>
-            <Text>Original counter: {counter1}</Text>
-            <Text>Stale counter: {counter2}</Text>
-            <Text>Up to date counter: {counter3}</Text>
+            <Text>State updated: {counter1}</Text>
+            <Text>Still state is stale (Same render cycle): {counter2}</Text>
+            <Text>But ref is up to date (Same render cycle): {counter3}</Text>
             <Button onPress={increment} title="Increment" />
         </View>
     );
