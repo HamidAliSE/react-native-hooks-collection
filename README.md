@@ -49,6 +49,9 @@ Explore the `/src/playground` folder.
 ## useDebouncedCallback Demo
 <img src="https://github.com/user-attachments/assets/456978bb-49c0-4ab2-93e4-b98014fa3df3" width="300" alt="useDebouncedCallback Demo" />
 
+## useDimensions Demo
+<img src="https://github.com/user-attachments/assets/3c125c1d-41f5-4bc7-a11e-12c581a21795" width="300" alt="useDimensions Demo" />
+
 ## 🔧 Upcoming Hooks
 
 🚀 usePermission (For location & camera)
