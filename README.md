@@ -64,6 +64,9 @@ Explore the `/src/playground` folder.
 ## useStateRef Demo
 <img src="https://github.com/user-attachments/assets/8273892a-8294-4870-b0c3-a7d3f7abfb88" width="300" alt="useStateRef Demo" />
 
+## useThrottledCallback Demo
+<img src="https://github.com/user-attachments/assets/356f0ccc-cd0b-4513-9a20-937a53e76003" width="300" alt="useThrottledCallback Demo" />
+
 ## 🔧 Upcoming Hooks
 
 🚀 usePermission (For location & camera)
