@@ -27,7 +27,7 @@ yarn add react-native-hooks-collection
 |-----------|----------------------------------------------------------------------------------|
 | Device    |	useDeviceOrientation, useDimensions                                              |
 | System    |	useAppState, useInternetStatus, useKeyboard, useBackHandler                      |
-| Utilities |	usePrevious, useToggle, useDebounce, useDebouncedCallback useThrottledCallback   |
+| Utilities |	usePrevious, useToggle, useDebounce, useDebouncedCallback, useThrottledCallback  |
 | Debugging |	useRenderCount, useLifecycleLogger, useLogChange                                 |
 | Others    |	useCountdown, useCounter, useIsFirstRender, useStateRef                          |
 
@@ -45,6 +45,9 @@ Explore the `/src/playground` folder.
 
 ## useDebounce Demo
 <img src="https://github.com/user-attachments/assets/090ca94c-8bf8-4b6d-bd6e-0d84026295c6" width="300" alt="useDebounce Demo" />
+
+## useDebouncedCallback Demo
+<img src="https://github.com/user-attachments/assets/456978bb-49c0-4ab2-93e4-b98014fa3df3" width="300" alt="useDebouncedCallback Demo" />
 
 ## 🔧 Upcoming Hooks
 
