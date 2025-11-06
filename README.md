@@ -67,6 +67,9 @@ Explore the `/src/playground` folder.
 ## useThrottledCallback Demo
 <img src="https://github.com/user-attachments/assets/356f0ccc-cd0b-4513-9a20-937a53e76003" width="300" alt="useThrottledCallback Demo" />
 
+## useToggle Demo
+<img src="https://github.com/user-attachments/assets/68503b21-380e-48a8-af3e-6032dcf9bcbe" width="300" alt="useToggle Demo" />
+
 ## 🔧 Upcoming Hooks
 
 🚀 usePermission (For location & camera)
