@@ -61,6 +61,9 @@ Explore the `/src/playground` folder.
 ## useRenderCount Demo
 <img src="https://github.com/user-attachments/assets/9252129c-5329-4e89-904b-e25d6caf8d47" width="300" alt="useRenderCount Demo" />
 
+## useStateRef Demo
+<img src="https://github.com/user-attachments/assets/8273892a-8294-4870-b0c3-a7d3f7abfb88" width="300" alt="useStateRef Demo" />
+
 ## 🔧 Upcoming Hooks
 
 🚀 usePermission (For location & camera)
